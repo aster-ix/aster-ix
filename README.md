@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Fullstack dev. Mainly working with C#/C++</p>
+<p align="center">dev. Mainly working with C#/C++ \\ site in progress..</p>
 
 ###
 
